@@ -1,0 +1,1 @@
+{"ast":null,"code":"const NewsActions = {\n  GET_TRENDING_NEWS_REQUEST: \"GET_TRENDING_NEWS_REQUEST\",\n  GET_TRENDING_NEWS: \"GET_TRENDING_NEWS\",\n  GET_TRENDING_NEWS_FAILURE: \"GET_TRENDING_NEWS_FAILURE\"\n};\nexport default NewsActions;","map":null,"metadata":{},"sourceType":"module"}

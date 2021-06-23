@@ -1,0 +1,1 @@
+{"ast":null,"code":"import axios from \"axios\";\nexport var API_BASE_URL = \"https://businessapi.trendii.com\"; // const BaseService = axios.create({\n//     baseURL: process.env.REACT_APP_API_SERVER, // url = base url + request url\n// });\n\nexport default axios.create({\n  baseURL: API_BASE_URL\n});","map":null,"metadata":{},"sourceType":"module"}
