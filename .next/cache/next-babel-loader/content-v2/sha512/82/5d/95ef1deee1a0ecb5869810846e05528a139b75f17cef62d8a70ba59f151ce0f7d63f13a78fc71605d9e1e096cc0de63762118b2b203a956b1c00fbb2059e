@@ -1,1 +1,0 @@
-{"ast":null,"code":"import axios from 'axios';\nexport const API_BASE_URL = \"https://businessapi.trendii.com\";\nexport const contactUs = payload => axios.post(`${API_BASE_URL}/auth/contact-us`, payload);\nexport const getTerms = data => axios.post(`${API_BASE_URL}/auth/terms`, data);","map":null,"metadata":{},"sourceType":"module"}

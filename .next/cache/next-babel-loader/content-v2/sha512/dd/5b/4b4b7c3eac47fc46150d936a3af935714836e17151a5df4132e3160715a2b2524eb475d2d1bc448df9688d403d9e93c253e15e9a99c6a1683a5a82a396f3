@@ -1,1 +1,0 @@
-{"ast":null,"code":"import axios from './base.service';\nexport var registerEmail = function registerEmail(payload) {\n  return axios.post(\"/auth/subscriber\", payload);\n};","map":null,"metadata":{},"sourceType":"module"}
